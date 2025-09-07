@@ -42,12 +42,12 @@ The original repository was initially removed by its creator and subsequently ta
 Install in package.json:
 ```json
 "dependencies": {
-    "baileys": "github:azzahir-repo/WaBusiness-api"
+    "baileys": "github:alinux11/baileys"
 }
 ```
 or install in terminal:
 ```
-npm install baileys@github:azzahir-repo/WaBusiness-api
+npm install baileys@github:alinux11/baileys
 ```
 
 Then import the default function in your code:
